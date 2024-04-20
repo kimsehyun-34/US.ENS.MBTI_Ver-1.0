@@ -8,8 +8,9 @@ import pygame
 pygame.mixer.init()
 pygame.mixer.music.load("./Aperture.mp3")
 
+
 for i in range(1,50):
-	m="*"*i
+	m="="*i
 	print(f"[{m}]")
 	time.sleep(0.015)
 	os.system('cls')
