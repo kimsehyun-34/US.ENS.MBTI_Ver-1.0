@@ -1,4 +1,4 @@
-# US.ENNS.MBTI_Ver-0.1
+# US.ENNS.MBTI
 US English Naming System by MBTI Based on SSA Data
 
 - 미국의 Social Security(사회보장국, SSA)의 Popular Baby Names(지역별 한해동안 가장 인기많은 아기 이름 100개의 데이터)데이터를 이용하여 만듬.
